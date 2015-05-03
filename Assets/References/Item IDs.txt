@@ -1,0 +1,20 @@
+//MANY OF THE ITEM NAMES BELOW MAY CHANGE IN THE FINAL VERSION OF THE GAME
+
+BUILDINGS:
+Command Center/Laptop
+Town Hall/Main Base
+Depository (location to automatcally deposit resources)
+House
+Blacksmith (for combat upgrades)
+Armory/Barricks (close combat units)
+Research Center (researches for whatever center is specalized in)
+Archery (far combat units)
+
+
+UNITS:
+Builder/Villager
+Basic swordsman
+Basic Archer
+
+
+RESOURCES:
